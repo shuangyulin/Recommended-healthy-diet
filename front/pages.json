@@ -1,0 +1,400 @@
+{
+	"pages": [ {
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#FA9B21",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	},{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#F48B10",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	}, {
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#F48B10",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	}, {
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#F48B10",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+	}, {
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#FA9B21",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	}, {
+		"path": "pages/user-info/user-info",
+		"style": {
+			"navigationBarBackgroundColor": "#F48B10",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+	, {
+		"path": "pages/chat/chat",
+		"style": {
+			"navigationBarTitleText": "智能AI"
+		}
+	}
+	, {
+		"path": "pages/news-detail/news-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FA9B21",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "健康资讯详情"
+		}
+	}
+	,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FA9B21",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F48B10",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户"
+		}
+	}
+	,{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FA9B21",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户"
+		}
+	}
+	,{
+		"path": "pages/shiyirenqun/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FA9B21",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "适宜人群"
+		}
+	},{
+		"path": "pages/shiyirenqun/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F48B10",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "适宜人群"
+		}
+	}
+	,{
+		"path": "pages/shiyirenqun/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FA9B21",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "适宜人群"
+		}
+	}
+	,{
+		"path": "pages/jiankangshipu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FA9B21",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "健康食谱"
+		}
+	},{
+		"path": "pages/jiankangshipu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F48B10",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "健康食谱"
+		}
+	}
+	,{
+		"path": "pages/jiankangshipu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FA9B21",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "健康食谱"
+		}
+	}
+	,{
+		"path": "pages/yinshijilu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FA9B21",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "饮食记录"
+		}
+	},{
+		"path": "pages/yinshijilu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F48B10",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "饮食记录"
+		}
+	}
+	,{
+		"path": "pages/yinshijilu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FA9B21",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "饮食记录"
+		}
+	}
+	,{
+		"path": "pages/jiankangshuju/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FA9B21",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "健康数据"
+		}
+	},{
+		"path": "pages/jiankangshuju/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F48B10",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "健康数据"
+		}
+	}
+	,{
+		"path": "pages/jiankangshuju/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FA9B21",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "健康数据"
+		}
+	}
+	,{
+		"path": "pages/forumtype/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FA9B21",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "饮食论坛类型"
+		}
+	},{
+		"path": "pages/forumtype/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F48B10",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "饮食论坛类型"
+		}
+	}
+	,{
+		"path": "pages/forumtype/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FA9B21",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "饮食论坛类型"
+		}
+	}
+	,{
+		"path": "pages/forumreport/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FA9B21",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "饮食论坛举报"
+		}
+	},{
+		"path": "pages/forumreport/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F48B10",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "饮食论坛举报"
+		}
+	}
+	,{
+		"path": "pages/forumreport/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FA9B21",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "饮食论坛举报"
+		}
+	}
+	,{
+		"path": "pages/newstype/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FA9B21",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "健康资讯分类"
+		}
+	},{
+		"path": "pages/newstype/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F48B10",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "健康资讯分类"
+		}
+	}
+	,{
+		"path": "pages/newstype/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FA9B21",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "健康资讯分类"
+		}
+	}
+	,{
+		"path": "pages/news/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FA9B21",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "健康资讯"
+		}
+	},{
+		"path": "pages/news/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F48B10",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "健康资讯"
+		}
+	}
+	,{
+		"path": "pages/storeup/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FA9B21",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "收藏表"
+		}
+	},{
+		"path": "pages/storeup/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F48B10",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "收藏表"
+		}
+	}
+	,{
+		"path": "pages/storeup/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FA9B21",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "收藏表"
+		}
+	}
+	,{
+		"path": "pages/discussjiankangshipu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FA9B21",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "健康食谱评论表"
+		}
+	},{
+		"path": "pages/discussjiankangshipu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F48B10",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "健康食谱评论表"
+		}
+	}
+	,{
+		"path": "pages/discussjiankangshipu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FA9B21",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "健康食谱评论表"
+		}
+	}
+    , {
+		"path": "pages/forum-index/forum-index",
+		"style": {
+			"navigationBarBackgroundColor": "#FA9B21",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "饮食论坛"
+		}
+	}, {
+		"path": "pages/forum-detail/forum-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FA9B21",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "饮食论坛发帖详情"
+		}
+	}, {
+		"path": "pages/forum-reply/forum-reply",
+		"style": {
+			"navigationBarBackgroundColor": "#F48B10",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "回复评论"
+		}
+	}, {
+		"path": "pages/forum-list/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FA9B21",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发布"
+		}
+	}, {
+		"path": "pages/forum-my/forum-my",
+		"style": {
+			"navigationBarBackgroundColor": "#FA9B21",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发布"
+		}
+	}, {
+		"path": "pages/forum-add-or-update/forum-add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F48B10",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发布"
+		}
+	}
+    ,{
+        "path": "common/linkOthers/linkOthers",
+        "style": {
+			"navigationBarBackgroundColor": "#FA9B21",
+			"navigationBarTextStyle": "white"
+        }
+    }
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "基于Android开发的健康饮食推荐系统",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#FFFFFF",
+		"selectedColor": "#FFE204",
+		"borderStyle": "white",
+		"backgroundColor": "#FA9C22",
+		"list": [
+			{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			
+
+			,{
+				"pagePath": "pages/jiankangshipu/list",
+				"iconPath": "/static/tabs/icon1.png",
+				"selectedIconPath": "/static/tabs/icon1_act.png",
+				"text": "健康食谱"
+			}
+
+
+
+			,{
+			 	"pagePath": "pages/forum-index/forum-index",
+				"iconPath": "static/tabs/forum.png",
+			 	"selectedIconPath": "static/tabs/forum_act.png",
+				"text": "饮食论坛"
+			}
+
+
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+}
